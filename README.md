@@ -1,1 +1,1 @@
-# SmashNES_Norely_Alexa
+# Smash_NES_Norely_Alexa
